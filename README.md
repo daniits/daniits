@@ -8,6 +8,10 @@
 💬  Ask me about **HTML,css,js,c,DSA**
 
  </div>
+ <p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/daniits/count.svg" />
+</p>
  
 <div align="center"> 
   <a href="nathkaran327@gmail.com">
@@ -44,8 +48,4 @@
 
 <hr/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=daniits&label=Profile%20views&color=0e75b6&style=flat" alt="Karan60" /> </p>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/daniits/count.svg" />
-</p>
+
