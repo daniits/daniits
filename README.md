@@ -1,14 +1,12 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a href="https://shwetang.netlify.app/">Daniyal Khan</a></h2>
 <h3 align="center">A passionate web developer from Pakistan 🇵🇰</h3>
-<div >
-This is the place where I opensource stuff and break things :rofl:
+
+This is the place where I opensource stuff and break things :rofl: <br />
 - 🌟 &nbsp;I’m currently honing my skills in Frontend Development
 - 🌱 &nbsp;I’m currently learning MERN, Three.js
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Next/Three
 
 
-</div>
-</div>
  <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/daniits/count.svg" />
