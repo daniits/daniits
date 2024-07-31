@@ -5,8 +5,10 @@
 💬 Ask me about HTML, CSS, JS, React, Next, Three.js, DSA
 
 </div>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=daniits&style=flat-square&color=blue" alt="daniits" /> 
+</div>
+ <p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/daniits/count.svg" />
 </p>
 <div align="center"> 
   <a href="mailto:nathkaran327@gmail.com" target="_blank">
