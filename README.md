@@ -64,6 +64,7 @@ This is the place where I opensource stuff and break things :rofl: <br />
 </div>
 <hr/>
 <div align="center">
+✨&nbsp; Status
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=daniits&theme=react&border_radius=10" alt="Daniyal's Streak Stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=daniits&show_icons=true&theme=react&border_radius=10" alt="Daniyal's GitHub Stats"/>
   <br/>
