@@ -3,22 +3,23 @@
 <h3 align="center">A passionate web developer from Pakistan 🇵🇰</h3>
 ✨&nbsp; About Me
 
-I am a Senior Frontend Developer with 3+ years of experience in developing enterprise applications and open-source software.
+I'm Daniyal Khan, a Senior Frontend Developer with 3+ years of experience in creating high-performance, user-friendly web applications. Skilled in React.js and Next.js, I specialize in turning Figma designs into responsive websites that excel in SEO and user experience. I've led projects that significantly improve web performance and user retention, always pushing the boundaries of what's possible with frontend technologies. Currently, I'm enhancing my skills in the MERN stack and Three.js. Let's connect to collaborate on your next digital project!
 
-This is the place where I opensource stuff and break things :rofl: <br />
-- 🌟 &nbsp;I’m currently honing my skills in Frontend Development
+This is the place where I open-source projects and experiment with new ideas :rofl: <br />
 
-- 📫 How to reach me <a href="mailto:d4n.kh4n@gmail.com">Send email</a>
+🌟  Currently honing my skills in Frontend Development
 
-- 📞 Know about my experiences <a href="https://calendly.com/daniyal-khan0520/30min" target="blank">Let's Connect</a>
+📫 How to reach me: <a href="mailto:d4n.kh4n@gmail.com">Send email</a>
 
-- 🌱 &nbsp;I’m currently learning MERN, Three.js
+📞 Want to chat about my experiences? <a href="https://calendly.com/daniyal-khan0520/30min" target="blank">Let's Connect</a>
 
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Next/Three
+🌱  Currently diving into MERN and Three.js
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-brown-beta-22.vercel.app/project" target="blank">Portfolio</a>
+💬  Ask me anything about JavaScript/TypeScript or React/Next/Three
 
-- ⚡ Fun fact A JavaScript developer can turn coffee into code, but only after turning bugs into features!
+👨‍💻 Check out all my projects at: <a href="https://portfolio-brown-beta-22.vercel.app/project" target="blank">Portfolio</a>
+
+⚡ Fun fact: A JavaScript developer can turn coffee into code, but only after turning bugs into features!
 
  <p align="center"> 
   Visitors count<br>
@@ -26,7 +27,7 @@ This is the place where I opensource stuff and break things :rofl: <br />
 </p>
 
 
-<!-- <p align="left"> <a href="https://twitter.com/dani_khan_its" target="blank"><img src="https://img.shields.io/twitter/follow/dani_khan_its?logo=twitter&style=for-the-badge" alt="dani_khan_its" /></a> </p> -->
+
 
 ### 
 <h3 align="left">Connect with me:</h3>
@@ -73,5 +74,7 @@ This is the place where I opensource stuff and break things :rofl: <br />
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/daniyalkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daniyalkhan" /></a></p><br><br>
+<div><a align="left" href="https://www.buymeacoffee.com/daniyalkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daniyalkhan" /></a></div>
+
+
+<div><a align="right" href="https://www.buymeacoffee.com/daniyalkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daniyalkhan" /></a></div>
