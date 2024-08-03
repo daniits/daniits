@@ -64,8 +64,8 @@ This is the place where I opensource stuff and break things :rofl: <br />
 
 <h2 align="center">✨ Github Status ✨</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img width="390" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=daniits&theme=react&border_radius=10" alt="Daniyal's Streak Stats" style="margin: 10px;" />
-  <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=daniits&show_icons=true&theme=react&border_radius=10" alt="Daniyal's GitHub Stats" style="margin: 10px;" />
+  <img align="left" width="390" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=daniits&theme=react&border_radius=10" alt="Daniyal's Streak Stats" style="margin: 10px;" />
+  <img align="right" width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=daniits&show_icons=true&theme=react&border_radius=10" alt="Daniyal's GitHub Stats" style="margin: 10px;" />
 </div>
 <div align="center" style="margin-top: 20px;">
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniits&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
