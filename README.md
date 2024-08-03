@@ -10,13 +10,13 @@ This is the place where I opensource stuff and break things :rofl: <br />
 
 - 📫 How to reach me <a href="mailto:d4n.kh4n@gmail.com">Send email</a>
 
-- 📄 Know about my experiences [sasa](sasa)
-
 - 📞 Know about my experiences <a href="https://calendly.com/daniyal-khan0520/30min" target="blank">Let's Connect</a>
 
 - 🌱 &nbsp;I’m currently learning MERN, Three.js
 
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Next/Three
+
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-brown-beta-22.vercel.app/project" target="blank">Portfolio</a>
 
 - ⚡ Fun fact A JavaScript developer can turn coffee into code, but only after turning bugs into features!
 
@@ -75,6 +75,13 @@ This is the place where I opensource stuff and break things :rofl: <br />
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   </a>
+</div>
+<hr/>
+
+<h2 align="center">⚒️ Operating System ⚒️</h2>
+<div align="center">
+ 
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 </div>
 <hr/>
 
