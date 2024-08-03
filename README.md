@@ -8,7 +8,7 @@ I am a Senior Frontend Developer with 3+ years of experience in developing enter
 This is the place where I opensource stuff and break things :rofl: <br />
 - 🌟 &nbsp;I’m currently honing my skills in Frontend Development
 
-- 📫 How to reach me **sasasa**
+- 📫 How to reach me <a href="mailto:d4n.kh4n@gmail.com">Send email</a>
 
 - 📄 Know about my experiences [sasa](sasa)
 
