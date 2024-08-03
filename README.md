@@ -113,7 +113,6 @@ This is the place where I open-source projects and experiment with new ideas :ro
   </a>
 </p>
 
-<!-- Social Links in the Center -->
 <p align="right">
   <a href="https://twitter.com/sasa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
