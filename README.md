@@ -35,7 +35,7 @@ This is the place where I open-source projects and experiment with new ideas :ro
 <a href="https://www.linkedin.com/in/daniyalkhanengr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16118926/daniyal-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://discord.gg/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="as" height="30" width="40" /></a>
 
@@ -74,7 +74,28 @@ This is the place where I open-source projects and experiment with new ideas :ro
 
 
 
-<div><a align="left" href="https://www.buymeacoffee.com/daniyalkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daniyalkhan" /></a></div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Left Buy Me a Coffee Button -->
+  <div>
+    <a href="https://www.buymeacoffee.com/daniyalkhan">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daniyalkhan" />
+    </a>
+  </div>
 
+  <!-- Social Links in the Center -->
+  <p style="margin: 0; text-align: center;">
+    <a href="https://twitter.com/sasa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sasa" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/sasa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasa" height="30" width="40" /></a>
+    <a href="https://fb.com/asasa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asasa" height="30" width="40" /></a>
+    <a href="https://instagram.com/sasa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasa" height="30" width="40" /></a>
+    <a href="https://dribbble.com/assasa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="assasa" height="30" width="40" /></a>
+    <a href="https://discord.gg/as" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="as" height="30" width="40" /></a>
+  </p>
 
-<div><a align="right" href="https://www.buymeacoffee.com/daniyalkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daniyalkhan" /></a></div>
+  <!-- Right Buy Me a Coffee Button -->
+  <div>
+    <a href="https://www.buymeacoffee.com/daniyalkhan">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daniyalkhan" />
+    </a>
+  </div>
+</div>
