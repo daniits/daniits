@@ -12,6 +12,8 @@ This is the place where I opensource stuff and break things :rofl: <br />
 
 - 📄 Know about my experiences [sasa](sasa)
 
+- 📞 Know about my experiences <a href="https://calendly.com/daniyal-khan0520/30min" target="blank">Let's Connect</a>
+
 - 🌱 &nbsp;I’m currently learning MERN, Three.js
 
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Next/Three
