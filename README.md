@@ -65,17 +65,17 @@ This is the place where I opensource stuff and break things :rofl: <br />
 <h2 align="center">✨ Github Status ✨</h2>
 <div align="center">
 
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=daniits&theme=react&border_radius=10" alt="Daniyal's Streak Stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=daniits&show_icons=true&theme=react&border_radius=10" alt="Daniyal's GitHub Stats"/>
+  <img width=390 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=daniits&theme=react&border_radius=10" alt="Daniyal's Streak Stats"/>
+  <img width=390 align="right" src="https://github-readme-stats.vercel.app/api?username=daniits&show_icons=true&theme=react&border_radius=10" alt="Daniyal's GitHub Stats"/>
   <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniits&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </div>
 
 <!-- <p><img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=daniits&show_icons=true&locale=en&layout=compact" alt="daniits" /></p> -->
 
-<p><img align="left" width=390 height=380 src="https://github-readme-streak-stats.herokuapp.com/?user=daniits&" alt="daniits" /></p>
+<!-- <p><img align="left" width=390 height=380 src="https://github-readme-streak-stats.herokuapp.com/?user=daniits&" alt="daniits" /></p>
 
-<p>&nbsp;<img align="right" width=390 height=380 src="https://github-readme-stats.vercel.app/api?username=daniits&show_icons=true&locale=en" alt="daniits" /></p>
+<p>&nbsp;<img align="right" width=390 height=380 src="https://github-readme-stats.vercel.app/api?username=daniits&show_icons=true&locale=en" alt="daniits" /></p> -->
 
 
 
