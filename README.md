@@ -94,4 +94,4 @@ This is the place where I opensource stuff and break things :rofl: <br />
 </div>
 
 <h3 align="left">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/daniyalkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daniyalkhan" /></a></p><br><br>
+<div align="center"><a href="https://www.buymeacoffee.com/daniyalkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daniyalkhan" /></a></div>
