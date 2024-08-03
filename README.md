@@ -71,6 +71,11 @@ This is the place where I opensource stuff and break things :rofl: <br />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniits&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniits&show_icons=true&locale=en&layout=compact" alt="daniits" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniits&show_icons=true&locale=en&layout=compact" alt="daniits" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniits&show_icons=true&locale=en" alt="daniits" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniits&" alt="daniits" /></p>
+
 <h3 align="left">Support:</h3>
 <div align="center"><a href="https://www.buymeacoffee.com/daniyalkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daniyalkhan" /></a></div>
