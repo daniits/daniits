@@ -7,9 +7,16 @@ I am a Senior Frontend Developer with 3+ years of experience in developing enter
 
 This is the place where I opensource stuff and break things :rofl: <br />
 - 🌟 &nbsp;I’m currently honing my skills in Frontend Development
+
+- 📫 How to reach me **sasasa**
+
+- 📄 Know about my experiences [sasa](sasa)
+
 - 🌱 &nbsp;I’m currently learning MERN, Three.js
+
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Next/Three
- 
+
+- ⚡ Fun fact A JavaScript developer can turn coffee into code, but only after turning bugs into features!
 
  <p align="center"> 
   Visitors count<br>
@@ -17,10 +24,10 @@ This is the place where I opensource stuff and break things :rofl: <br />
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/dani_khan_its" target="blank"><img src="https://img.shields.io/twitter/follow/dani_khan_its?logo=twitter&style=for-the-badge" alt="dani_khan_its" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/dani_khan_its" target="blank"><img src="https://img.shields.io/twitter/follow/dani_khan_its?logo=twitter&style=for-the-badge" alt="dani_khan_its" /></a> </p> -->
 
-### 📫 How to reach me?
-
+### 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/daniyalkhanengr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
