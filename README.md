@@ -114,7 +114,7 @@ This is the place where I open-source projects and experiment with new ideas :ro
 </p>
 
 <!-- Social Links in the Center -->
-<p align="center">
+<p align="right">
   <a href="https://twitter.com/sasa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
@@ -132,12 +132,5 @@ This is the place where I open-source projects and experiment with new ideas :ro
   </a>
   <a href="https://discord.gg/as" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
-
-<!-- Right Buy Me a Coffee Button -->
-<p align="right">
-  <a href="https://www.buymeacoffee.com/daniyalkhan">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
