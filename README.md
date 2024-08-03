@@ -27,6 +27,7 @@ This is the place where I opensource stuff and break things :rofl: <br />
 <a href="https://stackoverflow.com/users/16118926/daniyal-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://discord.gg/as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="as" height="30" width="40" /></a>
 
 
 <hr/>
@@ -76,3 +77,6 @@ This is the place where I opensource stuff and break things :rofl: <br />
   <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniits&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </div>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/daniyalkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daniyalkhan" /></a></p><br><br>
