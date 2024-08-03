@@ -67,13 +67,12 @@ This is the place where I opensource stuff and break things :rofl: <br />
 
   <img width=390 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=daniits&theme=react&border_radius=10" alt="Daniyal's Streak Stats"/>
   <img width=390 align="right" src="https://github-readme-stats.vercel.app/api?username=daniits&show_icons=true&theme=react&border_radius=10" alt="Daniyal's GitHub Stats"/>
-  <br/>
-   <br/>
-    <br/>
-     <br/>
-      <br/>
-       <br/>
-  <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniits&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+
+</div>
+<div align="center">
+s
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniits&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </div>
 
 <!-- <p><img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=daniits&show_icons=true&locale=en&layout=compact" alt="daniits" /></p> -->
