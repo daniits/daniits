@@ -106,13 +106,11 @@ This is the place where I open-source projects and experiment with new ideas :ro
 </div>
 
 <!-- Support and Social Links -->
-<div align="left">
-  <a href="https://www.buymeacoffee.com/daniyalkhan">
+<div >
+  <a align="left" href="https://www.buymeacoffee.com/daniyalkhan">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
-</div>
-
-<p align="center">
+  <p align="center">
   <a href="https://twitter.com/sasa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/sasa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://fb.com/asasa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
@@ -120,9 +118,13 @@ This is the place where I open-source projects and experiment with new ideas :ro
   <a href="https://dribbble.com/assasa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" /></a>
   <a href="https://discord.gg/as" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
-
-<div align="right">
-  <a href="https://www.buymeacoffee.com/daniyalkhan">
+ <a align="right" href="https://www.buymeacoffee.com/daniyalkhan">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
+</div>
+
+
+
+<div >
+ 
 </div>
