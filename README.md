@@ -16,6 +16,9 @@ This is the place where I opensource stuff and break things :rofl: <br />
   <img src="https://profile-counter.glitch.me/daniits/count.svg" />
 </p>
 
+
+<p align="left"> <a href="https://twitter.com/dani_khan_its" target="blank"><img src="https://img.shields.io/twitter/follow/dani_khan_its?logo=twitter&style=for-the-badge" alt="dani_khan_its" /></a> </p>
+
 ### 📫 How to reach me?
 
 <p align="left">
