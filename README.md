@@ -109,7 +109,7 @@ This is the place where I open-source projects and experiment with new ideas :ro
 <!-- Left Buy Me a Coffee Button -->
 
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
 <p align="left">
   <a href="https://www.buymeacoffee.com/daniyalkhan">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
