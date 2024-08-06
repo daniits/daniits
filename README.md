@@ -103,17 +103,12 @@ This is the place where I open-source projects and experiment with new ideas :ro
   <a href="https://instagram.com/gautamkrishnar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/16118926/daniyal-khan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
   <a href="https://discord.gg/as" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-  
+
 </p>
 
-<!-- Left Buy Me a Coffee Button -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-<p align="left" valign="middle">
-  <a valign="middle" href="https://www.buymeacoffee.com/daniyalkhan">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</p>
-  <p align="right" valign="middle">
+
+<h3 align="left">Contact Me:</h3>
+ <p align="left" valign="middle">
   <a href="https://twitter.com/sasa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
@@ -130,6 +125,15 @@ This is the place where I open-source projects and experiment with new ideas :ro
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
   </a>
 </p>
+
+<!-- Left Buy Me a Coffee Button -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<p align="right" valign="middle">
+  <a valign="middle" href="https://www.buymeacoffee.com/daniyalkhan">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+  </a>
+</p>
+ 
 
 </div>
 
