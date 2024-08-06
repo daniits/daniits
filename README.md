@@ -1,6 +1,6 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a href="https://shwetang.netlify.app/">Daniyal Khan</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a href="https://portfolio-brown-beta-22.vercel.app/">Daniyal Khan</a></h2>
 
-<h3 align="center">A passionate web developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A Passionate Web Developer From Pakistan 🇵🇰</h3>
 ✨&nbsp; About Me
 
 I'm Daniyal Khan, a Senior Frontend Developer with 3+ years of experience in creating high-performance, user-friendly web applications. Skilled in React.js and Next.js, I specialize in turning Figma designs into responsive websites that excel in SEO and user experience. I've led projects that significantly improve web performance and user retention, always pushing the boundaries of what's possible with frontend technologies. Currently, I'm enhancing my skills in the MERN stack and Three.js. Let's connect to collaborate on your next digital project!
