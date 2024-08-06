@@ -140,11 +140,5 @@ This is the place where I open-source projects and experiment with new ideas :ro
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniits&show_icons=true&locale=en&layout=compact" alt="daniits" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniits&show_icons=true&locale=en" alt="daniits" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniits&" alt="daniits" /></p>
-
 
 
