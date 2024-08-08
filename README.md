@@ -118,7 +118,7 @@ This is the place where I open-source projects and experiment with new ideas :ro
   <a href="https://web.facebook.com/itz.daniyakhan/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/sasa" target="_blank">
+  <a href="https://www.instagram.com/itz_daniyal10/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://dribbble.com/assasa" target="_blank">
