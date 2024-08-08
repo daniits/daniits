@@ -102,7 +102,7 @@ This is the place where I open-source projects and experiment with new ideas :ro
 <p align="left">
   <a href="https://instagram.com/gautamkrishnar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/16118926/daniyal-khan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://discord.gg/as" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>ssss
+  <a href="https://discord.gg/as" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 
 </p>
 
@@ -112,7 +112,7 @@ This is the place where I open-source projects and experiment with new ideas :ro
   <a href="https://twitter.com/sasa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/sasa" target="_blank">
+  <a href="https://www.linkedin.com/in/daniyalkhanengr/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://fb.com/asasa" target="_blank">
